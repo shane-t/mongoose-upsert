@@ -6,6 +6,7 @@
   "scripts": {
     "test": "mocha"
   },
+  "repository" : "shane-t/mongoose-upsert",
   "author": "Shane Terence Odlum",
   "license": "MIT",
   "devDependencies": {
