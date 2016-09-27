@@ -1,0 +1,16 @@
+{
+  "name": "mongoose-upsert",
+  "version": "1.0.0",
+  "description": "A plugin adding a static upsert method to mongoose models",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "Shane Terence Odlum",
+  "license": "MIT",
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^3.1.0",
+    "mongoose": "^4.6.1"
+  }
+}
